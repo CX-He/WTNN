@@ -1,7 +1,6 @@
-Matlab source code for the following hyperspectral image denoising study:
+Matlab implementations of the following paper:
 
-[1] He C, Cao Q, Xu Y, et al. Weighted Order-p Tensor Nuclear Norm Minimization and Its Application to Hyperspectral Image Mixed Denoising[J]. IEEE Geoscience and Remote Sensing Letters, 2023.
-
+```
 @article{he2023weighted,<br>
   title={Weighted Order-p Tensor Nuclear Norm Minimization and Its Application to Hyperspectral Image Mixed Denoising},<br>
   author={He, Chengxun and Cao, Qiujie and Xu, Yang and Sun, Le and Wu, Zebin and Wei, Zhihui},<br>
@@ -11,10 +10,11 @@ Matlab source code for the following hyperspectral image denoising study:
   pages={1-5},<br>
   publisher={IEEE},<br>
   note = {Art no. 5510505}<br>
-}<br>
+}
+```
+<br>
 
-
-If this code is helpful to you, please consider following our work and citing our papers, thank you! Good luck with your research!<br>
+I sincerely hope this trivial work is worth your precious time, if this code is helpful to you, please consider citing our work, thank you! Good luck with your research!<br>
 If there is anything we can help you with, please don't hesitate to contact us.<br>
 
 Since I accidentally forgot to save the random seeds used in the simulation, please manually download the data set in the paper to reproduce the results before running the code.<br>
