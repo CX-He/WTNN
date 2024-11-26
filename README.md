@@ -2,14 +2,13 @@ Matlab implementations of the following paper:
 
 ```
 @article{he2023weighted,<br>
-  title={Weighted Order-p Tensor Nuclear Norm Minimization and Its Application to Hyperspectral Image Mixed Denoising},<br>
-  author={He, Chengxun and Cao, Qiujie and Xu, Yang and Sun, Le and Wu, Zebin and Wei, Zhihui},<br>
-  journal={IEEE Geoscience and Remote Sensing Letters},<br>
-  year={2023},<br>
-  volume={20},<br>
-  pages={1-5},<br>
-  publisher={IEEE},<br>
-  note = {Art no. 5510505}<br>
+  title={Weighted Order-p Tensor Nuclear Norm Minimization and Its Application to Hyperspectral Image Mixed Denoising},
+  author={He, Chengxun and Cao, Qiujie and Xu, Yang and Sun, Le and Wu, Zebin and Wei, Zhihui},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2023},
+  volume={20},
+  publisher={IEEE},
+  note = {Art no. 5510505}
 }
 ```
 <br>
